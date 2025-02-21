@@ -1,14 +1,17 @@
-{"name":"Solaris™",
-	"downloads":[
-		{
-			"title":"Lossless Scaling v2.13.2 (build 17002899) CSF + Registry fix",
-			"uris":["https://gofile.io/d/rjLger"],
-			"uploadDate":"2024-10-03",
-			"fileSize":"2.1 MB"},
-			{
-			"title":"Lossless Scaling v3.0.0.2 BETA (build 17002893) CSF + Registry Fix",
-			"uris":["https://gofile.io/d/JSvHMB"],
-			"uploadDate":"2024-10-03",
-			"fileSize":"60.1 MB"},
-		]
-	}
+{
+    "name": "Solaris™",
+    "downloads": [
+        {
+            "title": "Lossless Scaling v2.13.2 (build 17002899) CSF + Registry fix",
+            "uris": ["https://gofile.io/d/rjLger"],
+            "uploadDate": "2024-10-03"
+            "fileSize": "2.1 MB",
+        },
+        {
+            "title": "Lossless Scaling v3.0.0.2 BETA (build 17002893) CSF + Registry Fix",
+            "uris": ["https://gofile.io/d/JSvHMB"],
+            "uploadDate": "2024-10-22",
+            "fileSize": "60.1 MB"
+        }
+    ]
+}
